@@ -3,7 +3,8 @@ header {
   margin-inline: auto;
 }
 header .subttl {
-  border-top: 10px;
+  border-top: 2px solid;
+  border-color: rgb(252, 187, 90);
   background-color: rgba(250, 243, 41, 0.618);
 }
 .simply-logo img {
@@ -13,6 +14,10 @@ header .subttl {
 main {
   width: 800px;
   margin-inline: auto;
+}
+#featured {
+  border-left: 3px solid;
+  border-color: orange;
 }
 footer {
   width: 800px;
