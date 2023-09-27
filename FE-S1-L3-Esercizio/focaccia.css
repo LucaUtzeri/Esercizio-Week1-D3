@@ -1,0 +1,20 @@
+header {
+  width: 800px;
+  margin-inline: auto;
+}
+header .subttl {
+  border-top: 10px;
+  background-color: rgba(250, 243, 41, 0.618);
+}
+.simply-logo img {
+  margin: 800px;
+}
+
+main {
+  width: 800px;
+  margin-inline: auto;
+}
+footer {
+  width: 800px;
+  margin-inline: auto;
+}
